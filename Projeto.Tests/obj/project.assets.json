@@ -1708,6 +1708,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "tdd-desafio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/tdd-desafio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/tdd-desafio.dll": {}
+        }
       }
     }
   },
@@ -5497,12 +5507,18 @@
         "xunit.runner.visualstudio.2.5.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "tdd-desafio/1.0.0": {
+      "type": "project",
+      "path": "../Projeto/tdd-desafio.csproj",
+      "msbuildProject": "../Projeto/tdd-desafio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "coverlet.collector >= 6.0.0",
+      "tdd-desafio >= 1.0.0",
       "xunit >= 2.5.3",
       "xunit.runner.visualstudio >= 2.5.3"
     ]
@@ -5513,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto.Tests\\Projeto.Tests.csproj",
+      "projectUniqueName": "d:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto.Tests\\Projeto.Tests.csproj",
       "projectName": "Projeto.Tests",
-      "projectPath": "D:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto.Tests\\Projeto.Tests.csproj",
+      "projectPath": "d:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto.Tests\\Projeto.Tests.csproj",
       "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto.Tests\\obj\\",
+      "outputPath": "d:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5531,7 +5547,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "d:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto\\tdd-desafio.csproj": {
+              "projectPath": "d:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto\\tdd-desafio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

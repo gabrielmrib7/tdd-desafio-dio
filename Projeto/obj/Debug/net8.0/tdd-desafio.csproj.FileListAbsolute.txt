@@ -1,0 +1,14 @@
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\bin\Debug\net8.0\tdd-desafio.exe
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\bin\Debug\net8.0\tdd-desafio.deps.json
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\bin\Debug\net8.0\tdd-desafio.runtimeconfig.json
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\bin\Debug\net8.0\tdd-desafio.dll
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\bin\Debug\net8.0\tdd-desafio.pdb
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\obj\Debug\net8.0\tdd-desafio.GeneratedMSBuildEditorConfig.editorconfig
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\obj\Debug\net8.0\tdd-desafio.AssemblyInfoInputs.cache
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\obj\Debug\net8.0\tdd-desafio.AssemblyInfo.cs
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\obj\Debug\net8.0\tdd-desafio.csproj.CoreCompileInputs.cache
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\obj\Debug\net8.0\tdd-desafio.dll
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\obj\Debug\net8.0\refint\tdd-desafio.dll
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\obj\Debug\net8.0\tdd-desafio.pdb
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\obj\Debug\net8.0\tdd-desafio.genruntimeconfig.cache
+d:\workspace\fullstack\DESAFIOS DE PROJETO\tdd-desafio\Projeto\obj\Debug\net8.0\ref\tdd-desafio.dll

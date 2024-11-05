@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B4ELi9uxOPA=",
+  "dgSpecHash": "hQ7OHB4Ud+s=",
   "success": true,
-  "projectFilePath": "D:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto.Tests\\Projeto.Tests.csproj",
+  "projectFilePath": "d:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto.Tests\\Projeto.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PICHAU\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\PICHAU\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

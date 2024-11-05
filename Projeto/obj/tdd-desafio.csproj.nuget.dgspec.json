@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\tdd-desafio.csproj": {}
+    "d:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto\\tdd-desafio.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\tdd-desafio.csproj": {
+    "d:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto\\tdd-desafio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\tdd-desafio.csproj",
+        "projectUniqueName": "d:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto\\tdd-desafio.csproj",
         "projectName": "tdd-desafio",
-        "projectPath": "D:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\tdd-desafio.csproj",
+        "projectPath": "d:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto\\tdd-desafio.csproj",
         "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\obj\\",
+        "outputPath": "d:\\workspace\\fullstack\\DESAFIOS DE PROJETO\\tdd-desafio\\Projeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config"
